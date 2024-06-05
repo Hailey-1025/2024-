@@ -637,7 +637,7 @@ box-sizing: border-box;
     vertical-align: bottom;
   }
   
-  .mb-l h2 {
+  /* .mb-l h2 {
     margin: 120px auto 80px;
     width: 372px;
     font-size: 32px;
@@ -659,7 +659,7 @@ box-sizing: border-box;
     top: 50%;
     z-index: 0;
   }
-  
+   */
   .title-text::before {
     content: "";
     position: absolute;
